@@ -1,0 +1,31 @@
+#SHEETMUSIC
+
+#SONG INFO
+title : Multiple Notes
+author : Everyone
+
+#TIME
+bars : 6
+signature : 3/4
+
+#NOTES
+
+pitch : g2
+duration : 1
+
+pitch : g#1
+duration : 1/8
+
+pitch : eb2
+duration : 1/2
+
+pitch : c2
+duration : 1/8
+
+pitch : cb1
+duration : 1/4
+
+pitch : f#1
+duration : 1
+
+#END

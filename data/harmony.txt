@@ -1,0 +1,96 @@
+#SHEETMUSIC
+
+
+#SONG INFO
+
+
+title : Harmony
+
+author : Multiple people
+
+
+
+#TIME
+
+
+bars : 4
+
+
+signature : 2/4
+
+
+
+#NOTES
+
+
+
+pitch : g2
+
+duration : 1
+
+harmony : d#2
+
+
+
+pitch : g#1
+
+duration : 1/8
+
+harmony:ab
+
+
+
+pitch : eb2
+
+duration : 1/2
+
+harmony : c#
+
+
+
+pitch : rest
+
+duration : 1/8
+
+
+
+pitch : cb1
+
+duration : 1/4
+
+harmony : b1
+
+
+
+pitch : f#1
+
+duration : 1
+
+
+pitch : eb2
+
+duration : 1/2
+
+
+
+pitch : c2
+
+duration : 1/8
+
+
+
+pitch : cb1
+
+duration : 1/4
+
+
+
+#LYRICS
+
+
+na-ma o-vat sa-no-ja-ni
+je-pu
+
+
+
+#END

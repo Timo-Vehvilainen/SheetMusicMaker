@@ -1,0 +1,16 @@
+#SHEETMUSIC
+
+#SONG INFO
+title : Single Note
+author : Someone
+
+#TIME
+bars : 1
+signature : 4/4
+
+#NOTES
+
+pitch : f
+duration : 1/16
+
+#END

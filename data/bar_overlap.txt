@@ -1,0 +1,31 @@
+#SHEETMUSIC
+
+#SONG INFO
+title : Input notes overlapping bars
+author : Douchebag
+
+#TIME
+bars : 4
+signature : 6/8
+
+#NOTES
+
+pitch : f
+duration : 1/2
+
+pitch : g1
+duration : 1/4
+
+pitch : d2
+duration : 1/2
+
+pitch : b1
+duration : 1
+
+pitch : c1
+duration : 1/2
+
+pitch : f#1
+duration : 1/4
+
+#END

@@ -1,0 +1,21 @@
+#SHEETMUSIC
+
+
+
+#SONG INFO
+
+
+title : Empty Staff
+
+author : No One
+
+
+
+#TIME
+
+
+4/4
+
+
+
+#END

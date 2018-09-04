@@ -1,0 +1,31 @@
+#SHEETMUSIC
+
+#SONG INFO
+title : Rests
+author : Anyone?
+
+#TIME
+bars : 4
+signature : 4/4
+
+#NOTES
+
+pitch : 0
+duration : 1/16
+
+pitch : rest
+duration : 1/8
+
+pitch : rest
+duration : 1/4
+
+pitch : rest
+duration : 1/2
+
+pitch : rest
+duration : 1
+
+pitch : rest
+duration : 2
+
+#END

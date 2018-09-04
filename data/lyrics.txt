@@ -1,0 +1,45 @@
+#SHEETMUSIC
+
+#SONG INFO
+title : Lyrics
+author : Talkative
+
+#TIME
+bars : 6
+signature : 4/4
+
+#NOTES
+
+pitch : g2
+duration : 1
+
+pitch : g#1
+duration : 1/8
+
+pitch : eb2
+duration : 1/2
+
+pitch : rest
+duration : 1/8
+
+pitch : cb1
+duration : 1/4
+
+pitch : f#1
+duration : 1
+
+pitch : eb2
+duration : 1/2
+
+pitch : c2
+duration : 1/8
+
+pitch : cb1
+duration : 1/4
+
+#LYRICS
+
+na-ma o-vat sa-no-ja-ni
+je-pu
+
+#END
